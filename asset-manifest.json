@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Foodhub/static/css/main.ff9dd311.css",
+    "main.js": "/Foodhub/static/js/main.088147fe.js",
+    "static/media/food2.png": "/Foodhub/static/media/food2.d0cc4cd0dab01772f6b3.png",
+    "static/media/food3.png": "/Foodhub/static/media/food3.5a235797aabae8c879ab.png",
+    "static/media/food1.png": "/Foodhub/static/media/food1.8b0192e4e29666ef5ef2.png",
+    "static/media/about-image.jpg": "/Foodhub/static/media/about-image.e06b78e90ea9ef777c2a.jpg",
+    "static/media/menu4.jpg": "/Foodhub/static/media/menu4.f240542554960833dc0d.jpg",
+    "static/media/menu3.jpg": "/Foodhub/static/media/menu3.fb4f37f4473b0f70a07c.jpg",
+    "static/media/menu2.jpg": "/Foodhub/static/media/menu2.915597e5d29db9b23654.jpg",
+    "static/media/menu5.jpg": "/Foodhub/static/media/menu5.94fff99e9bd4b09ebc41.jpg",
+    "static/media/signature.png": "/Foodhub/static/media/signature.a6a477dc77ee46ec1bb2.png",
+    "static/media/menu1.jpg": "/Foodhub/static/media/menu1.8feacf7b894f541b61f2.jpg",
+    "static/media/dialog-2.svg": "/Foodhub/static/media/dialog-2.7b6d11e2c179ad4a0c23c6b2c1aed99a.svg",
+    "static/media/dialog-1.svg": "/Foodhub/static/media/dialog-1.33fa9b40de5ecb92df51cc3f40a7bc4a.svg",
+    "static/media/logo.svg": "/Foodhub/static/media/logo.74c418f3d8b82bcc16c84a3d2837c27c.svg",
+    "static/media/logo-footer.svg": "/Foodhub/static/media/logo-footer.8c8929877424b35a32b3aa455a73dc20.svg",
+    "static/media/menu.svg": "/Foodhub/static/media/menu.94bb8eed401d4a79afd512628b53e783.svg",
+    "static/media/arrow.svg": "/Foodhub/static/media/arrow.5ed1030f209ffe9d4bcd3f347daaa08c.svg",
+    "static/media/cart.svg": "/Foodhub/static/media/cart.be8c9f98554440e53db88f0e46d1b52c.svg",
+    "index.html": "/Foodhub/index.html",
+    "static/media/ring.svg": "/Foodhub/static/media/ring.3c0da1c0818a1982beb3ac0df6088f3b.svg",
+    "static/media/circle.svg": "/Foodhub/static/media/circle.27838231d7b1850bb064025c4c99cf67.svg",
+    "main.ff9dd311.css.map": "/Foodhub/static/css/main.ff9dd311.css.map",
+    "main.088147fe.js.map": "/Foodhub/static/js/main.088147fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff9dd311.css",
+    "static/js/main.088147fe.js"
+  ]
+}
